@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/github.io/frontend_task2/static/css/main.612786e4.css",
-    "main.js": "/github.io/frontend_task2/static/js/main.ba139d75.js",
-    "static/js/787.e7b59482.chunk.js": "/github.io/frontend_task2/static/js/787.e7b59482.chunk.js",
-    "static/media/sun.jpg": "/github.io/frontend_task2/static/media/sun.ff64b865379a4269169a.jpg",
-    "static/media/moon.jpg": "/github.io/frontend_task2/static/media/moon.ef27ec4d1ca8420bbd0d.jpg",
-    "index.html": "/github.io/frontend_task2/index.html",
-    "main.612786e4.css.map": "/github.io/frontend_task2/static/css/main.612786e4.css.map",
-    "main.ba139d75.js.map": "/github.io/frontend_task2/static/js/main.ba139d75.js.map",
-    "787.e7b59482.chunk.js.map": "/github.io/frontend_task2/static/js/787.e7b59482.chunk.js.map"
+    "main.css": "/frontend_task2/static/css/main.612786e4.css",
+    "main.js": "/frontend_task2/static/js/main.bf6f6459.js",
+    "static/js/787.e7b59482.chunk.js": "/frontend_task2/static/js/787.e7b59482.chunk.js",
+    "static/media/sun.jpg": "/frontend_task2/static/media/sun.ff64b865379a4269169a.jpg",
+    "static/media/moon.jpg": "/frontend_task2/static/media/moon.ef27ec4d1ca8420bbd0d.jpg",
+    "index.html": "/frontend_task2/index.html",
+    "main.612786e4.css.map": "/frontend_task2/static/css/main.612786e4.css.map",
+    "main.bf6f6459.js.map": "/frontend_task2/static/js/main.bf6f6459.js.map",
+    "787.e7b59482.chunk.js.map": "/frontend_task2/static/js/787.e7b59482.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.612786e4.css",
-    "static/js/main.ba139d75.js"
+    "static/js/main.bf6f6459.js"
   ]
 }
