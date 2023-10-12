@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/KarthikaT14/github.io/frontend_task2/static/css/main.612786e4.css",
+    "main.js": "/KarthikaT14/github.io/frontend_task2/static/js/main.ff9b0596.js",
+    "static/js/787.e7b59482.chunk.js": "/KarthikaT14/github.io/frontend_task2/static/js/787.e7b59482.chunk.js",
+    "static/media/sun.jpg": "/KarthikaT14/github.io/frontend_task2/static/media/sun.ff64b865379a4269169a.jpg",
+    "static/media/moon.jpg": "/KarthikaT14/github.io/frontend_task2/static/media/moon.ef27ec4d1ca8420bbd0d.jpg",
+    "index.html": "/KarthikaT14/github.io/frontend_task2/index.html",
+    "main.612786e4.css.map": "/KarthikaT14/github.io/frontend_task2/static/css/main.612786e4.css.map",
+    "main.ff9b0596.js.map": "/KarthikaT14/github.io/frontend_task2/static/js/main.ff9b0596.js.map",
+    "787.e7b59482.chunk.js.map": "/KarthikaT14/github.io/frontend_task2/static/js/787.e7b59482.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.612786e4.css",
+    "static/js/main.ff9b0596.js"
+  ]
+}
